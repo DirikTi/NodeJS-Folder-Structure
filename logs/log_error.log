@@ -1,0 +1,93 @@
+2021-07-16 17:15:7 ERROR 'DATABASE ERROR' MESSAGE: 'HATA VERDİ'
+null
+
+2021-07-16 17:15:10 ERROR 'DATABASE ERROR' MESSAGE: 'HATA VERDİ'
+null
+
+2021-07-16 17:15:15 ERROR 'DATABASE ERROR' MESSAGE: 'HATA VERDİ'
+null
+
+2021-07-16 17:17:2 ERROR 'DATABASE ERROR' MESSAGE: 'DATABASE HATASI VERDİ ANLAMADIM'
+HATA VERDİ
+
+2021-07-16 17:19:4 ERROR 'DATABASE ERROR' MESSAGE: 'DATABASE HATASI VERDİ ANLAMADIM'
+HATA VERDİ
+
+2021-07-16 18:12:45 ERROR 'DATABASE ERROR' MESSAGE: 'Cannot execute sql query without Async'
+Error: ER_NO_SUCH_TABLE: Table 'test.userswd' doesn't exist
+
+2021-07-29 14:6:37 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/login	 Params:email,password
+
+2021-07-29 19:3:52 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:username,email,password,country,language
+
+2021-07-29 20:17:8 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:username,email,password,country,language
+
+2021-07-29 20:18:48 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:username,email,password,country,language
+
+2021-07-29 20:20:21 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:username,email,password,country,language	 Request:username,email,password,country,language,qsd
+
+2021-07-30 11:17:14 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/update?username=%27dqw%27	 Params:username	 Request:
+
+2021-07-30 11:17:39 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/update?username=%27dqw%27	 Params:username	 Request:
+
+2021-07-30 11:18:15 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/update?username=%27dqw%27	 Params:username	 Request:
+
+2021-07-30 19:47:36 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/login	 Params:[object Object],[object Object]	 Requests:email,password
+
+2021-07-30 19:48:11 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/login	 Params:[object Object],[object Object]	 Requests:email,password
+
+2021-07-30 19:48:15 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/login	 Params:[object Object],[object Object]	 Requests:email,password
+
+2021-08-02 15:57:50 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/add	 Params:name,description,isPublic,type_id	 Requests:name,description,isPublic,type_id
+
+2021-08-02 15:58:11 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/add	 Params:name,description,isPublic,type_id	 Requests:name,description,isPublic,type_id
+
+2021-08-02 23:26:2 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:username,email,password,country,language,qsd
+
+2021-08-02 23:26:9 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:username,email,password,country,language
+
+2021-08-02 23:28:6 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:username,email,password,country,language
+
+2021-08-02 23:28:29 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:username,email,password,country,language
+
+2021-08-02 23:28:34 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:username,email,password,country,language
+
+2021-08-02 23:29:22 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:username,email,password,country,language
+
+2021-08-02 23:29:40 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:username,email,password,country,language
+
+2021-08-02 23:30:19 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:username,email,password,country,language
+
+2021-08-02 23:30:35 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/register	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:username,email,password,country,language
+
+2021-08-02 23:32:6 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/login	 Params:[object Object],[object Object]	 Requests:email,password
+
+2021-08-08 12:27:8 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/owner/getByCategoryId?id=80B0FAC6-AA01-4649-8478-026C8680FA3D	 Params:[object Object]	 Requests:
+
+2021-08-10 16:4:25 ERROR 'VALIDATION ERROR' MESSAGE: 'Error Bad request'
+Url :/add	 Params:[object Object],[object Object],[object Object],[object Object],[object Object]	 Requests:
+
